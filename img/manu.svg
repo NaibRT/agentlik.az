@@ -1,0 +1,11 @@
+<svg id="menu-3-line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <path id="Path_346" data-name="Path 346" class="cls-1" d="M0,0H24V24H0Z"/>
+  <path id="Path_347" data-name="Path 347" d="M3,4H21V6H3Zm6,7H21v2H9ZM3,18H21v2H3Z"/>
+</svg>
